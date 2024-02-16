@@ -1,5 +1,4 @@
 # Adithi Deborah Chakravarthy
-![Your Photo](link/to/your/photo.jpg)
 **Location:** Omaha, NE | **Email:** adithi.deborah@gmail.com | **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/adithideborah/) | **GitHub:** [GitHub Profile](https://github.com/adithideborah) 
 
 ## :rocket: Summary
