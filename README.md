@@ -4,7 +4,7 @@
 ## :rocket: Summary
 Dynamic and results-oriented professional with over 5 years of experience in the field of artificial intelligence and machine learning. Adept at developing innovative algorithms and solutions to address complex challenges in diverse industries. Proven track record of leading end-to-end research and development projects, leveraging advanced techniques in computer vision and deep learning. Successfully presented findings at prestigious conferences and published in renowned journals. Experienced in implementing and deploying state-of-the-art technologies to achieve tangible results. Ready to bring creativity, expertise, and a passion for innovation to your organization.
 
-## :briefcase: Work Experience
+## &#x1F4BC; Work Experience
 ### AI Developer
 Guardian RFID, Maple Grove, MN | May 2021 -Feb 2024
 - Lead :hammer: end-to-end research and development of machine learning models using Python, Flask/Fast APIs, MS SQL, and Docker, achieving an 11% reduction in time-to-production and optimizing development workflow.
