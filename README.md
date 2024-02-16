@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/adithideborah/adithideborah.github.io/blob/main/images/drdeborah_resume.png" alt="Your Photo" style="width: 150px; border-radius: 50%;">
-  <h1 style="border-bottom:none;">Adithi Deborah Chakravarthy</h1>
+  <img src="./images/drdeborah_resume.png" alt="Your Photo" style="width: 150px; border-radius: 50%;">
+  <h1 style="border-bottom:none;"> Adithi Deborah Chakravarthy </h1>
   📍 Omaha, NE | 📧 adithi.deborah@gmail.com | 🔗 <a href="https://www.linkedin.com/in/adithideborah/">LinkedIn Profile</a> | 🐙 <a href="https://github.com/adithideborah">GitHub Profile</a>
 </div>
 
