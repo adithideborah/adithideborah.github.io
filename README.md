@@ -1,3 +1,6 @@
+---
+title-heading: false
+---
 
 <div align="center">
   <img src="./images/drdeborah_resume.png" alt="Your Photo" style="width: 150px; border-radius: 50%;">
