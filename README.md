@@ -1,5 +1,8 @@
-# Adithi Deborah Chakravarthy
-📍 Omaha, NE | 📧 adithi.deborah@gmail.com | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/adithideborah/) | 🐙 [GitHub Profile](https://github.com/adithideborah) 
+<div align="center">
+  <img src="https://github.com/adithideborah/adithideborah.github.io/blob/main/images/drdeborah_resume.png" alt="Your Photo" style="width: 150px; border-radius: 50%;">
+  <h1 style="border-bottom:none;">Adithi Deborah Chakravarthy</h1>
+  📍 Omaha, NE | 📧 adithi.deborah@gmail.com | 🔗 <a href="https://www.linkedin.com/in/adithideborah/">LinkedIn Profile</a> | 🐙 <a href="https://github.com/adithideborah">GitHub Profile</a>
+</div>
 
 ## 🚀 Summary
 Dynamic and results-oriented professional with over 5 years of experience in the field of artificial intelligence and machine learning. Adept at developing innovative algorithms and solutions to address complex challenges in diverse industries. Proven track record of leading end-to-end research and development projects, leveraging advanced techniques in computer vision and deep learning. Successfully presented findings at prestigious conferences and published in renowned journals. Experienced in implementing and deploying state-of-the-art technologies to achieve tangible results. Ready to bring creativity, expertise, and a passion for innovation to your organization.
