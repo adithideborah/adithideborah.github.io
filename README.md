@@ -29,7 +29,7 @@ University of Nebraska at Omaha, Omaha, NE | Aug 2017 - May 2021
 ### Ph.D in Information Technology
 University of Nebraska at Omaha, Omaha, NE | Aug 2016 - Dec 2021
 - Researched and engineered algorithms 🛠️ that effectively leverage information from scarce, heterogeneous annotations to build models while significantly reducing manual annotation overheads.
-- Presented findings at conferences like IEEE ICMLA, IEEE BIBE and ARVO IOVS. (Google Scholar [profile](https://scholar.google.com/citations?view_op=list_works&hl=en&user=JcqMN58AAAAJ) 📊)
+- Presented findings at conferences like IEEE ICMLA, IEEE BIBE and ARVO IOVS. ([Google Scholar Profile](https://scholar.google.com/citations?view_op=list_works&hl=en&user=JcqMN58AAAAJ) 📊)
 - Published 📚 in both conference proceedings and peer-reviewed journals, contributing to the advancement of AI in Healthcare, Bioinformatics and Computer Vision.
 
 ### M.Sc in Artificial Intelligence
@@ -64,7 +64,7 @@ Alpha College of Engineering, Chennai, IN | Aug 2007 - Apr 2011
 - **Object and Inmate Tracking System 🚨**
   - Designed and deployed a real-time tracking system using computer vision, resulting in a 27% reduction in incidents, improving safety protocols within the correctional facility, with a patent pending.
   - **Technologies Used:** Tensorflow, Keras, Fast API, MS SQL
-  - 
+  
 ## 🌐 Languages
 - English (Fluent)
 - Tamil (Native)
