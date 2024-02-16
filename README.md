@@ -9,15 +9,15 @@ Dynamic and results-oriented professional with over 5 years of experience in the
 
 ## 💼 Work Experience
 ### AI Developer
-Guardian RFID, Maple Grove, MN | May 2021 -Feb 2024
-- Lead :hammer: end-to-end research and development of machine learning models using Python, Flask/Fast APIs, MS SQL, and Docker, achieving an 11% reduction in time-to-production and optimizing development workflow.
-- Conduct rigorous CI/CD testing :test_tube:, resulting in a 20% reduction in deployment time and a 14% increase in model reliability.
-- Implement :chart_with_upwards_trend: comprehensive benchmarking strategies, improving model performance by 18% and exceeding industry standards.
+Guardian RFID, Maple Grove, MN | May 2021 - Feb 2024
+- Lead 🛠️ end-to-end research and development of machine learning models using Python, Flask/Fast APIs, MS SQL, and Docker, achieving an 11% reduction in time-to-production and optimizing development workflow.
+- Conduct rigorous CI/CD testing 🧪, resulting in a 20% reduction in deployment time and a 14% increase in model reliability.
+- Implement 📈 comprehensive benchmarking strategies, improving model performance by 18% and exceeding industry standards.
 
 ### Full Stack Developer Intern
 PayPal, Omaha, NE | May 2020 - Aug 2020
 - Designed and deployed 👩‍💻 a high-impact Analytics dashboard using Python, Dash, and Oracle DB, processing and analyzing data with a 23% improvement in data rendering speed, providing actionable insights for informed decision-making.
-- Developed and implemented :chart_with_upwards_trend: an Operational dashboard using JavaScript, React.JS, and MS SQL, leading to a 31% enhancement in tracking developer allocation and shrinkage, optimizing resource management and project delivery.
+- Developed and implemented 📈 an Operational dashboard using JavaScript, React.JS, and MS SQL, leading to a 31% enhancement in tracking developer allocation and shrinkage, optimizing resource management and project delivery.
 
 ### Instructor
 University of Nebraska at Omaha, Omaha, NE | Aug 2017 - May 2021
