@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./images/drdeborah_resume.png" alt="Your Photo" style="width: 150px; border-radius: 50%;">
   <h1 style="border-bottom:none;"> Adithi Deborah Chakravarthy </h1>
-  📍 Omaha, NE | 📧 adithi.deborah@gmail.com | 🔗 <a href="https://www.linkedin.com/in/adithideborah/">LinkedIn Profile</a> | 📥 <a href="./docs/drdeborah_resume.pdf">Download CV</a>
+  📍 Omaha, NE | 📧 [adithi.deborah@gmail.com] (mailto:adithi.deborah@gmail.com) | 🔗 <a href="https://www.linkedin.com/in/adithideborah/">LinkedIn Profile</a> | 📥 <a href="./docs/drdeborah_resume.pdf" target="_blank">Download CV</a>
 </div>
 
 ## 🚀 Summary
