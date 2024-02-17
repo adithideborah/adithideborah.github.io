@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./images/drdeborah_resume.png" alt="Your Photo" style="width: 150px; border-radius: 50%;">
   <h1 style="border-bottom:none;"> Adithi Deborah Chakravarthy </h1>
-  📍 Omaha, NE | 📧 adithi.deborah@gmail.com | 🔗 <a href="https://www.linkedin.com/in/adithideborah/">LinkedIn Profile</a> | 🐙 <a href="https://github.com/adithideborah">GitHub Profile</a>
+  📍 Omaha, NE | 📧 adithi.deborah@gmail.com | 🔗 <a href="https://www.linkedin.com/in/adithideborah/">LinkedIn Profile</a> | 🐙 <a href="https://github.com/adithideborah">GitHub Profile</a> | 📥 <a href="./docs/drdeborah_resume.pdf">Download CV</a>
 </div>
 
 ## 🚀 Summary
@@ -71,4 +71,20 @@ Alpha College of Engineering, Chennai, IN | Aug 2007 - Apr 2011
 
 ## 📄 References
 Available upon request.
+
+<a href="path/to/your/CV.pdf" download>
+  <button style="background-color: #4CAF50; /* Green */
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin: 4px 2px;
+                cursor: pointer;
+                border-radius: 10px;">
+    Download CV
+  </button>
+</a>
 
